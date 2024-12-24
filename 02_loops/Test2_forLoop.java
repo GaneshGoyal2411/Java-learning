@@ -71,9 +71,40 @@ String [] cars = {"Farrari","Toyoto","BMW"};
                 // }
 
 // -------------------- 2 Ka Table --------------------
-            int number = 2;                
-                    for (int i = 1; i<=10; i++){
-                        System.out.println(number+"x"+i+"="+ number * i);
-                    }
+        //     int number = 2;                
+        //             for (int i = 1; i<=10; i++){
+        //                 System.out.println(number+"x"+i+"="+ number * i);
+        //             }
+
+//----------------- Break & Continue -------------------------
+        // for(int i = 0; i<=10; i++){
+        //         if(i==4){
+        //                 break;
+        //         }
+        //         System.out.println(i);        
+        //
+//                 continue;
+//                 }
+//                 System.out.println(i);
+// }   
+
+//----------------- Break & Continue with While loop -------------------------
+        int i = 0;
+        // while (i < 10){
+        //         System.out.println(i);
+        //         i++;
+        //         if(i==5){
+        //                 break;
+        //         }
+        //     }
+
+// ---------------- Continue -----------------------------
+        while (i < 10){
+                i++;
+                if(i==6){
+                        continue;
+                }
+                System.out.println(i);
+        }        
         }
 }
