@@ -46,9 +46,33 @@ class Test1{
         // }
 
 
-// 02) ----------------- Return Values (Without VOID) ----------------------
-        static int myMethod(int age){
-                
+// 02) -----------------01) Return Values (Without VOID) ----------------------
+        // static int myMethod(int x){
+        //         return 5+x;
+        // }
+
+        // public static void main(String args []){
+        //         System.out.println(myMethod(15));
+        // }
+
+// 02) --------------------------------------------------------------------------
+
+        // static int addTwo(int x, int y){
+        //         return x+y;
+        // }
+
+        // public static void main(String args[]){         
+        //         System.out.println(addTwo(5, 15));
+        // }
+
+
+// 03) ----------------------------keep in 3rd veriable--------------------------------------        
+        static int thirdV(int x, int y){
+                return x-y;
         }
 
+        public static void main(String args[]){
+                int z = thirdV(100, 50);
+                System.out.println(z);
+        }
     }
