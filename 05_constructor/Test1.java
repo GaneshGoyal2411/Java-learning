@@ -11,15 +11,17 @@ public class Test1{
     // }
 
     // ------------- Another one-------------------
-    int x ;
-    // Test1(int y){
-    //     x=y;
+    // int x ;
+    // // Test1(int y){
+    // //     x=y;
+    // // }
+
+    // public static void main(String[] args) {
+    //     Test1 myObj = new Test1(5);
+    //     Test1 myObj1 = new Test1(10);
+    //     System.out.println(myObj.x);
+    //     System.out.println(myObj1.x);
     // }
 
-    public static void main(String[] args) {
-        Test1 myObj = new Test1(5);
-        Test1 myObj1 = new Test1(10);
-        System.out.println(myObj.x);
-        System.out.println(myObj1.x);
-    }
+   
 }
