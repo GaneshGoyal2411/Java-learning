@@ -1,3 +1,4 @@
+/*
 public class Second {
     public static void main(String[] args) {
       Main myObj = new Main();
@@ -10,3 +11,4 @@ public class Second {
 //     System.out.println(obj1.x);
 //   }
 // }  
+ */

@@ -1,3 +1,5 @@
+/*
+
 public class Test1{
     // final int x = 10;
     // final double y = 10.9;
@@ -21,3 +23,5 @@ public class Test1{
         myObj.myPublicM();
     }
 }
+
+ */

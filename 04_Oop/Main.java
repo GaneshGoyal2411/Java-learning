@@ -1,3 +1,4 @@
+/*
 public class Main{
   int x = 10;
 }
@@ -7,3 +8,4 @@ public class Main{
 //     System.out.println(obj.x);
 //   }
 // }
+ */

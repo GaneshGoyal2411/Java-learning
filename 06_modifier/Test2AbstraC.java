@@ -1,3 +1,4 @@
+/*
 // Code from filename: Main.java
 // abstract class
 abstract class Main {
@@ -27,3 +28,8 @@ class Second {
     myObj.study(); // call abstract method
   }
 }
+
+
+ 
+
+ */

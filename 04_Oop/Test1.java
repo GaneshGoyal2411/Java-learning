@@ -1,3 +1,4 @@
+/*
 public class Test1{
     int x=5;
 
@@ -8,4 +9,5 @@ public class Test1{
         System.out.println(myObj2.x);
     }
 }
+ */
 

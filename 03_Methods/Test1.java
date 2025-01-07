@@ -1,3 +1,4 @@
+/*
 class Test1{
         // static void myMethod(){
         //     System.out.println("My First Method");
@@ -76,3 +77,4 @@ class Test1{
                 System.out.println(z);
         }
     }
+     */

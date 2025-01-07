@@ -1,3 +1,4 @@
+/*
 public class Main{
     public static void main(String args[]){
         Methods m1 = new Methods();
@@ -5,3 +6,4 @@ public class Main{
         m1.secM();
     }
 }
+ */

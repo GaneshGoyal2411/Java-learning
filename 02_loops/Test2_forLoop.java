@@ -1,3 +1,4 @@
+/*
 class Test5_loops{
     public static void main(String args []){
         // for (int i = 0; i <= 4; i++){
@@ -108,3 +109,4 @@ String [] cars = {"Farrari","Toyoto","BMW"};
         }        
         }
 }
+ */
