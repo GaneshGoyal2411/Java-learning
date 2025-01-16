@@ -1,13 +1,21 @@
+// abstract class Animal{
+//     public abstract void animalSound();
+//     public void sleep(){
+//         System.out.println("Zzz");
+//     }
+// }
+
+// abstract class Dog extends Animal{
+//     public void sleep(){
+//         System.out.println("Dog is sleeping");
+//     }
+// }
+
+//------------------------------------------------------
 abstract class Animal{
     public abstract void animalSound();
     public void sleep(){
-        System.out.println("Zzz");
-    }
-}
-
-abstract class Dog extends Animal{
-    public void sleep(){
-        System.out.println("Dog is sleeping");
+        System.out.println("Zzz...");
     }
 }
 
