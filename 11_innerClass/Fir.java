@@ -1,10 +1,29 @@
+// class Outerclass{
+//     int x=10;
+
+// private class InnerClass{
+//    int y=5;
+// }    
+// }
+
+// class Outerclass{
+//     int x=10;
+
+// static class Innerclass{
+//     int y=5;
+// }
+// }
+
 class Outerclass{
     int x=10;
 
 class InnerClass{
-   int y=5;
-}    
+    public int myInnerMwthod(){
+        return x;
+    }
 }
+}
+
 
 public class Fir {
 
@@ -12,6 +31,6 @@ public class Fir {
         Outerclass outerC = new Outerclass();
         Outerclass.InnerClass innerC = outerC.new InnerClass();
 
-        System.out.println(outerC.x+innerC.y);
+        System.out.println(innerC.myInnerMwthod());
     }
 }
