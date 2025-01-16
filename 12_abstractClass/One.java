@@ -27,7 +27,7 @@ class Pig extends Animal{
 
 public class One{
     public static void main(String[] args) {
-        Pig suar = new Pig();
+        Animal suar = new Pig();
         suar.animalSound();
         suar.sleep();
     }
