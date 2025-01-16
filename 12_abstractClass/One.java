@@ -19,9 +19,16 @@ abstract class Animal{
     }
 }
 
+class Pig extends Animal{
+    public void animalSound(){
+        System.out.println("The pig say : We we wee");
+    }
+}
+
 public class One{
     public static void main(String[] args) {
-        Animal aSound = new Dog();
-        aSound.sleep();
+        Pig suar = new Pig();
+        suar.animalSound();
+        suar.sleep();
     }
 }
