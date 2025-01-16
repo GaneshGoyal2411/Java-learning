@@ -1,4 +1,4 @@
-public class Main1{
+// public class Main1{
     // int x = 5;
     // // int y = 3;
     // // final int y = 3;
@@ -16,15 +16,15 @@ public class Main1{
     // String lName = "Goyal";
     // int age = 28;
 
-    String fName = "Ganesh";
-    String lName = "Goyal";
-    int age = 28;
+//     String fName = "Ganesh";
+//     String lName = "Goyal";
+//     int age = 28;
 
-    public static void main(String[] args) {
-        Main1 objG = new Main1();
-        System.out.println("Name:"+objG.fName+" "+objG.lName);
-        System.out.println(objG.age);
-    }
-}
+//     public static void main(String[] args) {
+//         Main1 objG = new Main1();
+//         System.out.println("Name:"+objG.fName+" "+objG.lName);
+//         System.out.println(objG.age);
+//     }
+// }
 
 // try by attributtes here???????????????????

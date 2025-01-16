@@ -1,4 +1,4 @@
-class Animal{
+/*class Animal{
     public void animalSound(){
         System.out.println("The animal makes a sound");
     }
@@ -26,4 +26,4 @@ public class Main1{
         pig.animalSound();
         dog.animalSound();
     }
-}
+}*/

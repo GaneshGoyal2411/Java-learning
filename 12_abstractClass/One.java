@@ -12,6 +12,7 @@
 // }
 
 //------------------------------------------------------
+/*
 abstract class Animal{
     public abstract void animalSound();
     public void sleep(){
@@ -23,6 +24,9 @@ class Pig extends Animal{
     public void animalSound(){
         System.out.println("The pig say : We we wee");
     }
+    public void sleep(){
+        System.out.println("in 6 months");
+    }
 }
 
 public class One{
@@ -31,4 +35,4 @@ public class One{
         suar.animalSound();
         suar.sleep();
     }
-}
+} */
