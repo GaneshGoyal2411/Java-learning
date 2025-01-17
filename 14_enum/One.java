@@ -57,6 +57,7 @@ public class One{
 } */
 
 //------------------- With For each loop-------------------------------------
+/*
 public class One{
     enum Level{
         HIGH,
@@ -70,4 +71,4 @@ public class One{
         }
     }
 }
-
+ */
