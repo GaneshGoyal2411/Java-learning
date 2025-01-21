@@ -24,8 +24,13 @@ class One{
         System.out.println(cars.size()); */
 
         // for Loop---------------------------------------------------------------------------------------------------------------------
-        for(int i=0; i<cars.size(); i++){
-            System.out.println(cars.get(i));
-        }
+        // for(int i=0; i<cars.size(); i++){
+        //     System.out.println(cars.get(i));
+        // }
+
+        // For each loop-----------------------------------------------------------------------------------------------------------
+    for(String i :cars){
+        System.out.println(i);
+    }
     }
 }
