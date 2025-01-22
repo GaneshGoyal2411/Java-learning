@@ -7,11 +7,15 @@ class One{
         capitalCities.put("MP", "Bhopal");
         capitalCities.put("UP", "Agra");
         capitalCities.put("CG", "Raipur");
+        capitalCities.remove("MP");
+        // System.out.println(capitalCities.remove("MP"));
         System.out.println(capitalCities);
 
         // for(int i=0; i<capitalCities.size(); i++){
-        //     System.out.println(capitalCities.get(i));
+        //     System.out.println(capitalCities.get("MP"));
         // }
-        for(String city : capitalCities )
+        // for(String city : capitalCities ){
+        //     System.out.println(city);
+        // }
     }
 }
