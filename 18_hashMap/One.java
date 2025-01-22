@@ -12,6 +12,6 @@ class One{
         // for(int i=0; i<capitalCities.size(); i++){
         //     System.out.println(capitalCities.get(i));
         // }
-        for(String city : )
+        for(String city : capitalCities )
     }
 }
